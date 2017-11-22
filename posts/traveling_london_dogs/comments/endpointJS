@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadunleashed.com/posts/traveling_london_dogs/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadunleashed.com/posts/traveling_london_dogs/comments/addComment";
+getCommentEndpoint = "http://www.theroadunleashed.com/posts/traveling_london_dogs/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadunleashed.com/posts/traveling_london_dogs/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadunleashed.com/posts/traveling_london_dogs/comments";

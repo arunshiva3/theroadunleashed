@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadunleashed.com/posts/planning_travel_with_dogs/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadunleashed.com/posts/planning_travel_with_dogs/comments/addComment";
+getCommentEndpoint = "http://www.theroadunleashed.com/posts/planning_travel_with_dogs/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadunleashed.com/posts/planning_travel_with_dogs/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadunleashed.com/posts/planning_travel_with_dogs/comments";

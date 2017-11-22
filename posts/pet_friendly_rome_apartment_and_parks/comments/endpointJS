@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadunleashed.com/posts/pet_friendly_rome_apartment_and_parks/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadunleashed.com/posts/pet_friendly_rome_apartment_and_parks/comments/addComment";
+getCommentEndpoint = "http://www.theroadunleashed.com/posts/pet_friendly_rome_apartment_and_parks/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadunleashed.com/posts/pet_friendly_rome_apartment_and_parks/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadunleashed.com/posts/pet_friendly_rome_apartment_and_parks/comments";

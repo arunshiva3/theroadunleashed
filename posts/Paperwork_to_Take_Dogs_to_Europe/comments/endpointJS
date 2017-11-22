@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadunleashed.com/posts/Paperwork_to_Take_Dogs_to_Europe/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadunleashed.com/posts/Paperwork_to_Take_Dogs_to_Europe/comments/addComment";
+getCommentEndpoint = "http://www.theroadunleashed.com/posts/Paperwork_to_Take_Dogs_to_Europe/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadunleashed.com/posts/Paperwork_to_Take_Dogs_to_Europe/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadunleashed.com/posts/Paperwork_to_Take_Dogs_to_Europe/comments";

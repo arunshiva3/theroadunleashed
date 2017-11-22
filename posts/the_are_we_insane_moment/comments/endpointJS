@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadunleashed.com/posts/the_are_we_insane_moment/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadunleashed.com/posts/the_are_we_insane_moment/comments/addComment";
+getCommentEndpoint = "http://www.theroadunleashed.com/posts/the_are_we_insane_moment/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadunleashed.com/posts/the_are_we_insane_moment/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadunleashed.com/posts/the_are_we_insane_moment/comments";

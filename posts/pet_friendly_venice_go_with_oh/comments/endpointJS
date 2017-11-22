@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadunleashed.com/posts/pet_friendly_venice_go_with_oh/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadunleashed.com/posts/pet_friendly_venice_go_with_oh/comments/addComment";
+getCommentEndpoint = "http://www.theroadunleashed.com/posts/pet_friendly_venice_go_with_oh/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadunleashed.com/posts/pet_friendly_venice_go_with_oh/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadunleashed.com/posts/pet_friendly_venice_go_with_oh/comments";

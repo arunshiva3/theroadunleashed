@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadunleashed.com/posts/Mr_Chewy_Giveaway/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadunleashed.com/posts/Mr_Chewy_Giveaway/comments/addComment";
+getCommentEndpoint = "http://www.theroadunleashed.com/posts/Mr_Chewy_Giveaway/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadunleashed.com/posts/Mr_Chewy_Giveaway/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadunleashed.com/posts/Mr_Chewy_Giveaway/comments";

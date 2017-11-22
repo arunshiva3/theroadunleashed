@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadunleashed.com/posts/pet_friendly_brittany_ferries_cap_finistere/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadunleashed.com/posts/pet_friendly_brittany_ferries_cap_finistere/comments/addComment";
+getCommentEndpoint = "http://www.theroadunleashed.com/posts/pet_friendly_brittany_ferries_cap_finistere/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadunleashed.com/posts/pet_friendly_brittany_ferries_cap_finistere/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadunleashed.com/posts/pet_friendly_brittany_ferries_cap_finistere/comments";
